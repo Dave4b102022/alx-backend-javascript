@@ -1,1 +1,1 @@
-Readme for Promises
+Typescript Readme
